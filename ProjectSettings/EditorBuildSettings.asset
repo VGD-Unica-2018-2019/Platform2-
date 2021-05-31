@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 0dd65578d7a0220439cd79babce0b19c
+  - enabled: 1
+    path: Assets/Scenes/Livelli/Tutorial.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Livelli/MappaMatteo.unity
+    guid: 663f973855f455a4d952324ac1831741
+  - enabled: 1
+    path: Assets/Scenes/Livelli/MappaAle.unity
+    guid: 6e8fdf2d81230b3459fe15c9fdf0d513
+  - enabled: 1
+    path: Assets/Scenes/LevelPassed.unity
+    guid: 74eff12caaaf1194db3e36d8492b2beb
+  - enabled: 1
+    path: Assets/Scenes/Blank.unity
+    guid: 3feab7f39898cc644b7e0d21f0d755bc
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 92807d743f9fd6840aea55d3c4c5f7a5
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: b481f1cc99cda2f4d8da422a1075bb50
+  m_configObjects: {}
